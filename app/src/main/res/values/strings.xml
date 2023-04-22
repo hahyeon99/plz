@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PerfecTrip</string>
+    <string name="home">Home</string>
+    <string name="my_travel">MyTravel</string>
+    <string name="community">Community</string>
+    <string name="account">Account</string>
+</resources>
